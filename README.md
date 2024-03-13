@@ -29,6 +29,7 @@ In the process of learning zk-SNARKs, I am exploring Noir. For the zk-STARKs, I 
 
 - LinkedIn [Antoine-Picot](https://linkedin.com/in/antoine-picot-176320155/)
 - Twitter: [@ant_vert](https://twitter.com/ant_vert)
+- NodeGuardians: [Hehehe84](https://nodeguardians.io/character/f66a6db1c832)
 
 Let's dive into the world of secure and decentralized solutions together! 💼🚀
 
