@@ -7,7 +7,7 @@ I'm passionate about **cryptography** and **blockchain technologies**. As a deve
 I am dedicated to honing my testing skills. Leveraging Foundry, I always aim to achieve 100% coverage in my projects! 
 Embracing the Test-Driven Development (TDD) approach, I'm on a journey to cultivate an inclination for green tests.
 
-In the process of learning zk-SNARKs, I am exploring Noir. For the zk-STARKs, I am also focusing on Cairo.
+Learning Rust With Alyra and the Solana Foundation. I am also in the process of learning zk-SNARKs and zk-STARKs with Cairo and Noir.
 
 
 ##### 🛠️ Technologies & Tools:
